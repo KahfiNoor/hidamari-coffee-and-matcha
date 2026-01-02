@@ -1,1 +1,1 @@
-# hidamari-book-and-coffee
+# hidamari-coffee-and-matcha

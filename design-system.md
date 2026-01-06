@@ -29,7 +29,7 @@ Colors that define the Hidamari brand identity - warm, earthy, and natural.
 **State Variations:**
 - **Hover:** `primary-wood-700` (#6F5838)
 - **Focus:** `primary-wood` with focus ring
-- **Active/Pressed:** `primary-wood-700` (#6F5838)
+- **Active/Pressed:** `primary-wood-800` (#4F3F28)
 - **Disabled:** `primary-wood-200` (#E1D1BB) with 40% opacity
 
 #### Primary Matcha (Secondary Brand Color)
@@ -50,7 +50,7 @@ Colors that define the Hidamari brand identity - warm, earthy, and natural.
 **State Variations:**
 - **Hover:** `primary-matcha-700` (#414C26)
 - **Focus:** `primary-matcha` with focus ring
-- **Active/Pressed:** `primary-matcha-700` (#414C26)
+- **Active/Pressed:** `primary-matcha-800` (#2F361B)
 - **Disabled:** `primary-matcha-200` (#C7D1AF) with 40% opacity
 
 #### Primary Charcoal (Accent/Premium Color)
@@ -71,7 +71,7 @@ Colors that define the Hidamari brand identity - warm, earthy, and natural.
 **State Variations:**
 - **Hover:** `primary-charcoal-700` (#1E1B19)
 - **Focus:** `primary-charcoal` with focus ring
-- **Active/Pressed:** `primary-charcoal-700` (#1E1B19)
+- **Active/Pressed:** `primary-charcoal-800` (#161412)
 - **Disabled:** `primary-charcoal-200` (#AFA79F) with 40% opacity
 
 ### Background Colors

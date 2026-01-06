@@ -102,8 +102,6 @@ Hidamari Café adalah sebuah ruang yang mengusung konsep *Slow Living* dan estet
 **Langkah selanjutnya:**
 Apakah Anda ingin saya mulai membuatkan **boilerplate kode awal** untuk `HeroSection.jsx` menggunakan **React + Tailwind + Framer Motion** agar kita bisa melihat visualisasi "cahaya jendela" tersebut?
 
-# Hidamari Coffee & Matcha Design System
-
 ## Colors
 
 | Color | Hex |

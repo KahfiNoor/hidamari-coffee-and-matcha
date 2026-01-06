@@ -194,28 +194,28 @@ Verify Vite builds successfully with no errors.
 <code>npm run dev</code>
 
 4. Test Public Pages
-* Navigate to http://localhost:8000
-* Verify Hero Section displays with animations
-* Check Menu page loads and category filters work
-* Test Library page search functionality
-* Submit a reservation form and verify validation
-* Check Journal/Blog pages
-* Toggle audio player
+ * Navigate to http://localhost:8000
+ * Verify Hero Section displays with animations
+ * Check Menu page loads and category filters work
+ * Test Library page search functionality
+ * Submit a reservation form and verify validation
+ * Check Journal/Blog pages
+ * Toggle audio player
 
 5. Test Admin Panel
-* Login to admin at http://localhost:8000/admin
-* Verify dashboard shows statistics
-* Create/Edit/Delete menu items
-* View and manage reservations
-* Add books to library
-* Create blog posts
+ * Login to admin at http://localhost:8000/admin
+ * Verify dashboard shows statistics
+ * Create/Edit/Delete menu items
+ * View and manage reservations
+ * Add books to library
+ * Create blog posts
 
 6. Responsive Design
-* Test on mobile viewport (DevTools)
-* Verify navigation hamburger menu works
-* Check all pages are mobile-friendly
+ * Test on mobile viewport (DevTools)
+ * Verify navigation hamburger menu works
+ * Check all pages are mobile-friendly
 
 7. Performance Verification
-* Use Lighthouse to check page load time (should be < 2s)
-* Verify images are optimized
-* Check Framer Motion animations are smooth (60fps)
+ * Use Lighthouse to check page load time (should be < 2s)
+ * Verify images are optimized
+ * Check Framer Motion animations are smooth (60fps)

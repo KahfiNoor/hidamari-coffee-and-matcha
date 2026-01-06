@@ -88,19 +88,19 @@ Based on a 1.250 (Major Third) ratio for harmonious scaling.
 
 | Token | Size | Line Height | Weight | Usage |
 |-------|------|-------------|--------|-------|
-| `display-1` | `4.5rem` (72px) | `1.1` | `600` | Hero titles, landing page |
-| `display-2` | `3.5rem` (56px) | `1.1` | `600` | Major section titles |
-| `h1` | `3rem` (48px) | `1.2` | `600` | Page titles |
-| `h2` | `2.5rem` (40px) | `1.2` | `600` | Section headings |
-| `h3` | `2rem` (32px) | `1.3` | `600` | Subsection headings |
-| `h4` | `1.5rem` (24px) | `1.4` | `500` | Card titles, component headings |
-| `h5` | `1.25rem` (20px) | `1.4` | `500` | Small headings |
-| `h6` | `1.125rem` (18px) | `1.4` | `500` | Tiny headings |
-| `body-large` | `1.125rem` (18px) | `1.6` | `400` | Large body text, intros |
-| `body` | `1rem` (16px) | `1.6` | `400` | Default body text |
-| `body-small` | `0.875rem` (14px) | `1.5` | `400` | Small body text, captions |
-| `caption` | `0.75rem` (12px) | `1.4` | `400` | Metadata, timestamps |
-| `overline` | `0.75rem` (12px) | `1.4` | `600` (uppercase) | Labels, categories |
+| `display-1` | `4.5rem` (72px) | `1.2` | `600` | Hero titles, landing page |
+| `display-2` | `3.5rem` (56px) | `1.2` | `600` | Major section titles |
+| `h1` | `3rem` (48px) | `1.3` | `600` | Page titles |
+| `h2` | `2.5rem` (40px) | `1.3` | `600` | Section headings |
+| `h3` | `2rem` (32px) | `1.4` | `600` | Subsection headings |
+| `h4` | `1.5rem` (24px) | `1.5` | `500` | Card titles, component headings |
+| `h5` | `1.25rem` (20px) | `1.5` | `500` | Small headings |
+| `h6` | `1.125rem` (18px) | `1.5` | `500` | Tiny headings |
+| `body-large` | `1.125rem` (18px) | `1.7` | `400` | Large body text, intros |
+| `body` | `1rem` (16px) | `1.7` | `400` | Default body text |
+| `body-small` | `0.875rem` (14px) | `1.6` | `400` | Small body text, captions |
+| `caption` | `0.75rem` (12px) | `1.5` | `400` | Metadata, timestamps |
+| `overline` | `0.75rem` (12px) | `1.5` | `600` (uppercase) | Labels, categories |
 
 ### Font Weights
 

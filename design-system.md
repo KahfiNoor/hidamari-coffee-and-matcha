@@ -58,10 +58,10 @@ Colors that define the Hidamari brand identity - warm, earthy, and natural.
 | Token | Hex | RGB | Usage |
 |-------|-----|-----|-------|
 | `primary-charcoal-50` | `#F7F6F6` | `247, 246, 246` | Lightest tint |
-| `primary-charcoal-100` | `#E8E7E6` | `232, 231, 230` | Very light gray |
-| `primary-charcoal-200` | `#C7C5C3` | `199, 197, 195` | Light shade, disabled |
-| `primary-charcoal-300` | `#A6A3A0` | `166, 163, 160` | Medium light |
-| `primary-charcoal-400` | `#85817D` | `133, 129, 125` | Medium |
+| `primary-charcoal-100` | `#CFC9C2` | `207, 201, 194` | Very light gray |
+| `primary-charcoal-200` | `#AFA79F` | `175, 167, 159` | Light shade, disabled |
+| `primary-charcoal-300` | `#77716A` | `119, 113, 106` | Medium light |
+| `primary-charcoal-400` | `#433D36` | `67, 61, 54` | Medium |
 | `primary-charcoal` (DEFAULT) | `#2D2926` | `45, 41, 38` | **Deep tones, footers, premium** |
 | `primary-charcoal-600` | `#26221F` | `38, 34, 31` | Slightly darker |
 | `primary-charcoal-700` | `#1E1B19` | `30, 27, 25` | Active/pressed state |
@@ -72,7 +72,7 @@ Colors that define the Hidamari brand identity - warm, earthy, and natural.
 - **Hover:** `primary-charcoal-600` (#26221F)
 - **Focus:** `primary-charcoal` with focus ring
 - **Active/Pressed:** `primary-charcoal-700` (#1E1B19)
-- **Disabled:** `primary-charcoal-200` (#C7C5C3) with 40% opacity
+- **Disabled:** `primary-charcoal-200` (#AFA79F) with 40% opacity
 
 ### Background Colors
 Layered backgrounds for depth and hierarchy.

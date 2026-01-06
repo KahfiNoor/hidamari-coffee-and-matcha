@@ -11,11 +11,68 @@
 ### Primary Colors
 Colors that define the Hidamari brand identity - warm, earthy, and natural.
 
-| Token | Hex | Usage |
-|-------|-----|-------|
-| `primary-wood` | `#9E7E56` | Primary brand color, CTAs, links, highlights |
-| `primary-matcha` | `#5D6D37` | Secondary brand color, matcha theme, accents |
-| `primary-charcoal` | `#2D2926` | Deep tones, footers, premium elements |
+#### Primary Wood (Main Brand Color)
+
+| Token | Hex | RGB | Usage |
+|-------|-----|-----|-------|
+| `primary-wood-50` | `#FAF6F1` | `250, 246, 241` | Lightest tint, subtle backgrounds |
+| `primary-wood-100` | `#F0E8DD` | `240, 232, 221` | Very light, hover backgrounds |
+| `primary-wood-200` | `#E1D1BB` | `225, 209, 187` | Light tint, disabled states |
+| `primary-wood-300` | `#D2BA99` | `210, 186, 153` | Medium light, borders |
+| `primary-wood-400` | `#C3A377` | `195, 163, 119` | Lighter accent |
+| `primary-wood` (DEFAULT) | `#9E7E56` | `158, 126, 86` | **Primary brand color, CTAs, links** |
+| `primary-wood-600` | `#8A6D4C` | `138, 109, 76` | Hover state, darker accent |
+| `primary-wood-700` | `#6F5838` | `111, 88, 56` | Active/pressed state |
+| `primary-wood-800` | `#4F3F28` | `79, 63, 40` | Deep shade |
+| `primary-wood-900` | `#392D1C` | `57, 45, 28` | Darkest shade |
+
+**State Variations:**
+- **Hover:** `primary-wood-600` (#8A6D4C)
+- **Focus:** `primary-wood` with focus ring
+- **Active/Pressed:** `primary-wood-700` (#6F5838)
+- **Disabled:** `primary-wood-200` (#E1D1BB) with 40% opacity
+
+#### Primary Matcha (Secondary Brand Color)
+
+| Token | Hex | RGB | Usage |
+|-------|-----|-----|-------|
+| `primary-matcha-50` | `#F4F6F0` | `244, 246, 240` | Lightest tint, subtle backgrounds |
+| `primary-matcha-100` | `#E3E8D7` | `227, 232, 215` | Very light, soft backgrounds |
+| `primary-matcha-200` | `#C7D1AF` | `199, 209, 175` | Light tint, disabled states |
+| `primary-matcha-300` | `#ABBA87` | `171, 186, 135` | Medium light |
+| `primary-matcha-400` | `#8FA35F` | `143, 163, 95` | Lighter matcha |
+| `primary-matcha` (DEFAULT) | `#5D6D37` | `93, 109, 55` | **Matcha theme, accents** |
+| `primary-matcha-600` | `#525F30` | `82, 95, 48` | Hover state |
+| `primary-matcha-700` | `#414C26` | `65, 76, 38` | Active/pressed state |
+| `primary-matcha-800` | `#2F361B` | `47, 54, 27` | Deep shade |
+| `primary-matcha-900` | `#1F2312` | `31, 35, 18` | Darkest shade |
+
+**State Variations:**
+- **Hover:** `primary-matcha-600` (#525F30)
+- **Focus:** `primary-matcha` with focus ring
+- **Active/Pressed:** `primary-matcha-700` (#414C26)
+- **Disabled:** `primary-matcha-200` (#C7D1AF) with 40% opacity
+
+#### Primary Charcoal (Accent/Premium Color)
+
+| Token | Hex | RGB | Usage |
+|-------|-----|-----|-------|
+| `primary-charcoal-50` | `#F7F6F6` | `247, 246, 246` | Lightest tint |
+| `primary-charcoal-100` | `#E8E7E6` | `232, 231, 230` | Very light gray |
+| `primary-charcoal-200` | `#C7C5C3` | `199, 197, 195` | Light shade, disabled |
+| `primary-charcoal-300` | `#A6A3A0` | `166, 163, 160` | Medium light |
+| `primary-charcoal-400` | `#85817D` | `133, 129, 125` | Medium |
+| `primary-charcoal` (DEFAULT) | `#2D2926` | `45, 41, 38` | **Deep tones, footers, premium** |
+| `primary-charcoal-600` | `#26221F` | `38, 34, 31` | Slightly darker |
+| `primary-charcoal-700` | `#1E1B19` | `30, 27, 25` | Active/pressed state |
+| `primary-charcoal-800` | `#161412` | `22, 20, 18` | Very dark |
+| `primary-charcoal-900` | `#0D0C0B` | `13, 12, 11` | Near black |
+
+**State Variations:**
+- **Hover:** `primary-charcoal-600` (#26221F)
+- **Focus:** `primary-charcoal` with focus ring
+- **Active/Pressed:** `primary-charcoal-700` (#1E1B19)
+- **Disabled:** `primary-charcoal-200` (#C7C5C3) with 40% opacity
 
 ### Background Colors
 Layered backgrounds for depth and hierarchy.
